@@ -3,8 +3,7 @@ This note taker application is designed to write, save and delete notes.
 
 ## Example about functionality
 
-https://drive.google.com/file/d/1wZb6WvmE0mP5mpmzSu_4U0vixAY39Kp-/view
-
+https://drive.google.com/file/d/1Gxi8y2iVmpzTBY1GBfHc0sqa9EHrQkfT/view
 
 ## Aproach
 
